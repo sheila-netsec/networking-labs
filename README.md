@@ -2,28 +2,39 @@
 
 ## About This Repository
 
-Welcome to my networking labs repository! This repository documents my hands-on practice in computer networking and cybersecurity. It contains practical lab exercises, configuration screenshots, testing results, and technical documentation demonstrating the skills I develop as I continue learning.
+Welcome to my networking labs repository! This repository showcases my hands-on learning and practical experience in computer networking and cybersecurity. It contains lab projects, configuration screenshots, testing results, and technical documentation that demonstrate the skills I am developing.
 
-## Labs
+## Projects
 
-### 01. Cisco Packet Tracer – Home Wireless Router
+### 1. Cisco Packet Tracer – Home Wireless Router Lab
 
-This lab focuses on configuring a home wireless router in Cisco Packet Tracer. It documents the network setup, wireless configuration, connected devices, and connectivity testing.
+A practical networking lab focused on configuring a home wireless router and client devices using Cisco Packet Tracer. This project documents the network topology, wireless security settings, router configuration, and connectivity testing.
 
 **Skills demonstrated:**
-- Basic network configuration
-- Wireless router setup
-- IP addressing and network connectivity
-- Network troubleshooting
-- Documentation of practical networking tasks
+- Wireless router configuration
+- Basic network topology and IP addressing
+- Wireless network security
+- Network connectivity testing
+- Troubleshooting and technical documentation
 
-**Project files:** See the [`01-wireless-router`](./01-wireless-router/) folder for the lab documentation, screenshots, and Packet Tracer file if included.
+**Tools:** Cisco Packet Tracer, GitHub
 
-## Tools Used
+**[View the Wireless Router Lab](./01-wireless-router/)**
 
-- Cisco Packet Tracer
-- GitHub for project documentation and version control
+## Skills I'm Developing
 
-## Learning Goals
+- Computer networking fundamentals
+- Network configuration and troubleshooting
+- Wireless network security
+- Cybersecurity assessment and documentation
+- Git and GitHub for project management
 
-My goal is to strengthen my practical networking skills, understand network configuration and troubleshooting.
+## Repository Structure
+
+- `01-wireless-router/` — Detailed lab documentation, screenshots, and Packet Tracer project file.
+
+## About Me
+
+I am developing my practical networking and cybersecurity skills through hands-on labs and technical projects. 
+
+---
