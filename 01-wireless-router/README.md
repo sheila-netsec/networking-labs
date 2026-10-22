@@ -1,42 +1,51 @@
-# Networking Labs
+# Cisco Packet Tracer: Home Wireless Router Lab
 
-## About This Repository
+## 1. Project Overview
 
-Welcome to my networking labs repository! This repository showcases my hands-on learning and practical experience in computer networking and cybersecurity. It contains lab projects, configuration screenshots, testing results, and technical documentation that demonstrate the skills I am developing.
+This project demonstrates the configuration of a home wireless router and client device using Cisco Packet Tracer. The lab focuses on understanding basic wireless networking, configuring router settings, applying wireless security, and testing network connectivity.
 
-## Projects
+The project documents the setup process, screenshots, testing observations, and troubleshooting considerations as part of my practical networking and cybersecurity learning journey.
 
-### 1. Cisco Packet Tracer – Home Wireless Router Lab
+## 2. Objectives
 
-A practical networking lab focused on configuring a home wireless router and client devices using Cisco Packet Tracer. This project documents the network topology, wireless security settings, router configuration, and connectivity testing.
+The objectives of this lab were to:
 
-**Skills demonstrated:**
-- Wireless router configuration
-- Basic network topology and IP addressing
-- Wireless network security
-- Network connectivity testing
-- Troubleshooting and technical documentation
+- Build and understand a basic home wireless network.
+- Configure a wireless router and client device.
+- Review wireless network security settings.
+- Test connectivity between the client and the network.
+- Document the configuration and results.
 
-**Tools:** Cisco Packet Tracer, GitHub
+## 3. Tools and Technologies
 
-**[View the Wireless Router Lab](./01-wireless-router/)**
-
-## Skills I'm Developing
-
-- Computer networking fundamentals
-- Network configuration and troubleshooting
-- Wireless network security
-- Cybersecurity assessment and documentation
-- Git and GitHub for project management
-
-## Repository Structure
-
-- `01-wireless-router/` — Detailed lab documentation, screenshots, and Packet Tracer project file.
-
-## About Me
-
-I am developing my practical networking and cybersecurity skills through hands-on labs and technical projects. This repository serves as a record of my learning journey and a portfolio of my practical work.
-
----
+- **Cisco Packet Tracer:** Network simulation and configuration.
+- **Wireless router:** Provides wireless network connectivity.
+- **Client laptop:** Represents a device connecting to the wireless network.
 
 
+## 4. Network Setup
+
+The lab uses a wireless router and a client laptop simulated in Cisco Packet Tracer.
+
+The router provides the wireless network, while the client laptop is used to access and test the network. The screenshots in this repository document different parts of the configuration and testing process.
+
+### Network Components
+
+- Wireless router
+- Client laptop
+- Wireless network connection
+- Router configuration interface
+
+## 5. Configuration Process
+
+### 5.1 Router Setup
+
+The wireless router was configured using the available settings in Cisco Packet Tracer. The configuration process involved reviewing the router's settings and preparing the wireless network for client connectivity.
+
+**Evidence:** See [`routersetup.png`](./routersetup.png).
+
+### 5.2 Wireless Security
+
+The wireless security settings were reviewed as part of the lab. Securing a wireless network helps prevent unauthorized devices from connecting.
+
+Recommended practices include using WPA2 or WPA3 security where supported, setting a strong unique Wi-Fi password, and changing default administrator credentials
